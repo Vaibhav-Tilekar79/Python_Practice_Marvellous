@@ -1,5 +1,11 @@
-
-
+'''
+Classifier : Decision Tree
+DataSet : Balls Dataset
+Features : Weight & Surface type
+Labels : Tennis and Cricket
+Training Dataset : 15 Entries
+Testing Dataset : 1 Entry
+'''
 from sklearn import tree
 # Rough -> 1
 # Smooth -> 0
